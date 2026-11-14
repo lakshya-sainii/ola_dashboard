@@ -1,0 +1,39 @@
+{
+  "original_rows": 103024,
+  "duplicate_rows": 0,
+  "duplicate_booking_ids": 0,
+  "timestamp_time_mismatch": 0,
+  "invalid_rating_count": 0,
+  "nonpositive_booking_value": 0,
+  "negative_distance": 0,
+  "success_with_zero_distance": 0,
+  "nonsuccess_with_distance": 0,
+  "nonsuccess_with_rating": 0,
+  "status_vs_reason_inconsistent": 0,
+  "peak_hours_derived": [
+    8,
+    9,
+    12,
+    15,
+    17,
+    21
+  ],
+  "cleaned_rows": 103024,
+  "rows_removed": 0,
+  "date_min": "2024-07-01 00:00:00",
+  "date_max": "2024-07-31 23:58:00",
+  "missing_values_raw": {
+    "V_TAT": 39057,
+    "C_TAT": 39057,
+    "Canceled_Rides_by_Customer": 92525,
+    "Canceled_Rides_by_Driver": 84590,
+    "Incomplete_Rides": 39057,
+    "Incomplete_Rides_Reason": 99098,
+    "Payment_Method": 39057,
+    "Driver_Ratings": 39057,
+    "Customer_Rating": 39057
+  },
+  "data_quality_score": 100.0,
+  "data_quality_formula": "100 x (1 - rule violations / (rows x 9 validity rules))",
+  "note_structural_missing": "V_TAT, C_TAT, Payment_Method, ratings and Incomplete_Rides are null for every non-Success booking by design (not applicable) and are preserved as null."
+}

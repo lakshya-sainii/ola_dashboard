@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Streamlit secrets (never push API keys)
+.streamlit/secrets.toml
+
+# Created by the app on every run
+ola_intro/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+{"name":"OLA Midnight","dataColors":["#FF6A13","#F5A524","#5B9DFF","#3DDC97","#B28DFF","#FF8FB1","#8AD1C2","#FF5C5C"],
+ "background":"#07080B","foreground":"#F4F1EA","tableAccent":"#FF6A13",
+ "textClasses":{"title":{"fontFace":"Segoe UI Semibold","color":"#F4F1EA","fontSize":14},"label":{"fontFace":"Segoe UI","color":"#9AA0AB","fontSize":10},
+ "callout":{"fontFace":"Segoe UI Semibold","color":"#FF6A13","fontSize":28}},
+ "visualStyles":{"*":{"*":{"background":[{"color":{"solid":{"color":"#14171D"}},"transparency":0}],"border":[{"show":true,"color":{"solid":{"color":"#2A2F38"}},"radius":10}]}}}}

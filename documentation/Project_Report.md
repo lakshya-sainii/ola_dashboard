@@ -1,0 +1,2 @@
+# Project report - OLA Ride Insights
+Objective: turn the July 2024 booking data into SQL answers, EDA, a Power BI build package and a Streamlit intelligence app. Approach and tests: see Methodology.md. Results: see Business_Insights.md. Deliverables and honest status: see QA_Checklist.md. Headline: 62.1% success, 28.1% cancellations (driver-led), 9.8% no driver; vehicle, hour and rating differences are statistically negligible.

@@ -1,0 +1,2 @@
+# Presentation guide (5-minute flow)
+1. Problem and data (103k bookings, one month). 2. Cleaning: zero defects, structural nulls kept. 3. Funnel: 62% success. 4. Cancellations: driver-led, top reasons. 5. Vehicle/time/rating: no significant differences - say so. 6. Value vs revenue distinction. 7. Limitations and next steps (more months, cost data). Demo order: Command Centre > Cancellation Radar > AI Lab question > Data Quality.
